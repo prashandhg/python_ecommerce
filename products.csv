@@ -1,0 +1,9 @@
+id,name,category,price,rating,image,description
+1,Classic T-Shirt,Clothing,499,4.5,https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80,Soft cotton everyday t-shirt
+2,Sports Shoes,Footwear,1299,4.7,https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80,Comfortable shoes for everyday movement
+3,Smart Watch,Electronics,1999,4.4,https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80,Modern smartwatch with a clean design
+4,Travel Backpack,Bags,899,4.3,https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80,Stylish backpack for work and travel
+5,Classic Sunglasses,Accessories,699,4.2,https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=80,Minimal sunglasses with UV protection
+6,Wireless Headphones,Electronics,1499,4.6,https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80,Immersive wireless listening experience
+7,Running Shoes,Footwear,1599,4.6,https://images.unsplash.com/photo-1460353581641-37baddab0fa2?auto=format&fit=crop&w=900&q=80,Lightweight shoes for running and training
+8,Denim Jacket,Clothing,1799,4.5,https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80,Classic denim jacket for casual outfits
